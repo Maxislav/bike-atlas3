@@ -5,7 +5,7 @@ import { ApiService } from './shared';
 import '../style/app.scss';
 
 @Component({
-  selector: 'atlas-app', // <my-app></my-app>
+  selector: 'at-app', // <my-app></my-app>
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
 })
